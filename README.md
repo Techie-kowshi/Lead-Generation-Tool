@@ -1,7 +1,5 @@
 # Lead-Generation-Tool
 
-# Lead-Gen
-
 AI-powered lead generation web app built with Tailwind, TypeScript, and Vite.
 
 ## Setup
