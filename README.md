@@ -5,6 +5,7 @@ AI-powered lead generation web app built with Tailwind, TypeScript, and Vite.
 ## Setup
 
 npm install
+
 npm run dev
 
 ## Build
