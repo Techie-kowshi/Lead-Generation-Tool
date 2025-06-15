@@ -17,3 +17,4 @@ Tailwind + Vite
 Lead scoring ready
 
 
+For signing up, make sure to enter a password with 8 characters
